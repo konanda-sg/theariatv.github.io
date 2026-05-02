@@ -18,7 +18,7 @@ http://150.230.125.74:9981/stream/channelid/1824068168?profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",ORF 1 (All Shows 🇦🇹)
 http://178.196.94.236:7000/play/xxORF1HDxx
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",RTS 1 (All Shows 🇷🇸)
-http://109.106.239.1:50001/play/a06j
+http://169.150.255.53/RTS1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",SVT 1 (All Shows 🇸🇪)
 http://217.209.209.118:9998/stream/channelid/612206023?ticket=03F9CE7372701EC4C3D336CC58761F5C7C495C41&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="Andorra",RTVA
@@ -2063,7 +2063,7 @@ https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/tdp-es.png" group-title="Spain",Teledeporte (TDP)
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tera-pedia/images/a/ab/RTS_1_2014.svg/revision/latest?cb=20230617140939" group-title="Serbia",RTS 1
-http://109.106.239.1:50001/play/a06j
+http://169.150.255.53/RTS1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/RTS_2_2014.svg/revision/latest?cb=20180130131828" group-title="Serbia",RTS 2
 http://109.106.239.1:50001/play/a06k
 #EXTINF:-1 tvg-logo="" group-title="Serbia",RTS 3
