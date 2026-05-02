@@ -225,7 +225,7 @@ http://103.176.90.186:80/live/f956994304/de7dd50f24/626974.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-nature-channel-ca.png",CTV Nature
 http://103.176.90.186:80/live/f956994304/de7dd50f24/626961.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Speed.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-speed-channel-ca.png",CTV Speed
-http://103.176.90.186:80/live/f956994304/de7dd50f24/758234.ts
+http://stream.cammonitorplus.net/1701/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Sci-Fi.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png",CTV Sci Fi
 http://38.143.48.212:9981/stream/channelid/191789153?profile=pass
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.Wild.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-wild-channel-ca.png",CTV Wild
@@ -233,7 +233,7 @@ http://kstv.us:8080/live/Felix12/3330312491/40775.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CTV.(CFTO).Toronto,.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png",CTV Toronto (CTFO)
 http://kstv.us:8080/live/Felix12/3330312491/40733.ts
 #EXTINF:-1 group-title="Canada" tvg-id="CTV2.Barrie,.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png",CTV2 Barrie (CKVR)
-http://theariatv.github.io/channeldead.mp4
+http://stream.cammonitorplus.net/1736/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Daystar_2008_flat.svg/revision/latest/scale-to-width-down/300?cb=20230715194009",Daystar
 http://kstv.us:8080/live/Felix12/3330312491/40729.ts
 #EXTINF:-1 group-title="Canada" tvg-id="deja.view.ca" tvg-logo="https://media.starlite.best/deja.view.ca.png",Deja View
@@ -283,7 +283,7 @@ http://theariatv.github.io/channeldead.mp4
 #EXTINF:-1 group-title="Canada" tvg-id="Global.Halifax.(CIHF).ca" tvg-logo="https://assets.vms.corusappservices.com/upload/staging/Global-Maritimes_GuideLogo_240x144.png",Global Maritimes (CIHF-DT)
 http://103.176.90.186:80/live/f956994304/de7dd50f24/943895.ts
 #EXTINF:-1 group-title="Canada" tvg-id="Global.News.BC1.ca" tvg-logo="https://globalnews.ca/wp-content/uploads/2015/01/BC1-pos-hor.png?w=320",Global News BC1
-http://theariatv.github.io/channeldead.mp4
+http://stream.cammonitorplus.net/1729/index.m3u8
 #EXTINF:-1 group-title="Canada" tvg-id="HBO1.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-1-ca.png",HBO
 http://portal5458.com:8080/live/Y18QnUSTwM/52775199980/40697.ts
 #EXTINF:-1 group-title="Canada" tvg-id="HBO.2.HD.(HBO2).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/hbo-2-ca.png",HBO 2
