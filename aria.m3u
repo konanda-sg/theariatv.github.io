@@ -1,6 +1,26 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="This Is Aria",Aria (Promo)
 https://theariatv.github.io/aria2.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",MRT 1 (All Shows 🇲🇰)
+http://169.150.223.25/MRT1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",CT 2 (Semi Finals Only 🇨🇿)
+http://46.149.191.217:9017/play/a00x
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",RTP 1 (All Shows 🇵🇹)
+http://185.228.163.146:8000/play/a002
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",SRF 2 (Semi Finals 🇨🇭)
+http://213.3.8.156:4022/udp/224.100.5.2:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",HRT 1 (All Shows 🇭🇷)
+http://93.115.108.250:4022/udp/239.1.2.93:1234
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",NPO 1 (All Shows 🇳🇱)
+http://31.149.103.41:8000/play/1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",BBC One (All Shows 🇬🇧)
+http://150.230.125.74:9981/stream/channelid/1824068168?profile=pass
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",ORF 1 (All Shows 🇦🇹)
+http://178.196.94.236:7000/play/xxORF1HDxx
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",RTS 1 (All Shows 🇷🇸)
+http://109.106.239.1:50001/play/a06j
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",SVT 1 (All Shows 🇸🇪)
+http://217.209.209.118:9998/stream/channelid/612206023?ticket=03F9CE7372701EC4C3D336CC58761F5C7C495C41&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTVA_logotip.png" group-title="Andorra",RTVA
 https://livesg1.rtva.hiway.media/65cea6ac-6944-4e45-b661-9dd47ea45c48/manifest.m3u8
 #EXTINF:-1 tvg-id="2x2" tvg-name="2x2_english" tvg-logo="https://lite.webchnl.com/assets/img/channelicons/2x2.png" group-title="Aria Web Channels",2x2_english
