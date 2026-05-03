@@ -39,6 +39,8 @@ http://217.209.209.118:9998/stream/channelid/612206023?ticket=03F9CE7372701EC4C3
 http:\\80.221.31.29:9981\stream\channelid\1080839017?profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",RUV (Semi Finals 🇮🇸)
 https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",ITV (All Shows 🇦🇿)
+https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",ETV (All Shows 🇪🇪)
 http://84.50.161.79:9981/stream/channelid/102111302?ticket=D9DC0134FD558A4AB7700F58FDCF5B3C104B0D06&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",ETV+ (All Shows 🇪🇪)
