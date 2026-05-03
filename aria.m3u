@@ -29,6 +29,10 @@ http://150.230.125.74:9981/stream/channelid/1824068168?profile=pass
 http://178.196.94.236:7000/play/xxORF1HDxx
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",RTS 1 (All Shows 🇷🇸)
 http://169.150.255.53/RTS1HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",TVCG 1 (All Shows 🇲🇪)
+http://79.127.207.193/RTCG1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",BNT 1 (All Shows 🇧🇬)
+http://213.91.179.28:8000/play/a046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",SVT 1 (All Shows 🇸🇪)
 http://217.209.209.118:9998/stream/channelid/612206023?ticket=03F9CE7372701EC4C3D336CC58761F5C7C495C41&profile=pass
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",YLE TV1 (All Shows 🇫🇮)
@@ -43,6 +47,8 @@ http://84.50.161.79:9981/stream/channelid/1005622334?ticket=5EE18E8DB1F5670AC733
 http://213.7.216.229:8888/udp/239.23.0.1:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",ERT 1 (All Shows 🇬🇷)
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",Kan 11 (All Shows)
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",TVR 1 (All Shows 🇷🇴)
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",Moldova 1 (All Shows 🇲🇩)
@@ -303,9 +309,9 @@ http://31.47.28.102:8000/play/a00a
 #EXTINF:-1 group-title="Bosnia and Herzegovina",Arena Sport Premium 3 HD
 http://31.47.28.102:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-1-bg.png" group-title="Bulgaria",BNT 1
-http://213.169.39.30:5086/
+http://213.91.179.28:8000/play/a046
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-2-bg.png" group-title="Bulgaria",BNT 2
-http://213.169.39.30:5124/
+http://213.91.179.28:8000/play/a049
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/bnt-3-bg.png" group-title="Bulgaria",BNT 3
 http://213.169.39.30:5144/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/bulgaria/nova-bg.png" group-title="Bulgaria",Nova
@@ -1370,19 +1376,19 @@ http://95.143.230.238:9981/stream/channelid/1167177042?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/poland/tvp-world-pl.png",TVP World
 http://78.56.193.170:9981/stream/channelid/2017205348?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan11-il.png" group-title="Israel" tvg-rec="3",Kan 11
-http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2332/index.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/keshet12-il.png" group-title="Israel" tvg-rec="3",Keshet 12
 https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/reshet13-il.png" group-title="Israel" tvg-rec="3",Reshet 13
-http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2330/index.m3u8
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel14-il.png" group-title="Israel" tvg-rec="3",Channel 14
-http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12242/index.m3u8
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/channel9-il.png" group-title="Israel" tvg-rec="3",Channel 9
 http://71db1693.ottrast.com/iptv/5RZ75L5KMGG9AW/2331/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/makan33-il.png" group-title="Israel" tvg-rec="3",Makan 33
-http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2381/index.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/kan-kids-il.png" group-title="Israel" tvg-rec="3",Kan Educational 
-http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/2380/index.m3u8
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/knesset-il.png" group-title="Israel" tvg-rec="3",Knesset
 http://6f1f83d9.akadatel.com/iptv/ET85VGCD8YTWLC/12269/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/israel/hot3-il.png" group-title="Israel" tvg-rec="3",HOT 3
