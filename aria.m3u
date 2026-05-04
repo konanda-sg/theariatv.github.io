@@ -20,7 +20,7 @@ https://netplus.zappr.stream/rts1hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",RSI La 1 (All Shows 🇨🇭)
 https://netplus.zappr.stream/rsila1hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",HRT 1 (All Shows 🇭🇷)
-http://93.115.108.250:4022/udp/239.1.2.93:1234
+http://79.127.207.193/HRT1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",NPO 1 (All Shows 🇳🇱)
 http://31.149.103.41:8000/play/1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rRjMYBgs/Screenshot-20260501-200112-Cap-Cut.webp" group-title="Eurovision On Aria" (May 1st - 17th ONLY)",BBC One (All Shows 🇬🇧)
@@ -611,13 +611,13 @@ http://201.237.193.180:9981/stream/channelid/2109973730?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RepretelCanal112024.svg/1200px-RepretelCanal112024.svg.png" group-title="Costa Rica",Repretel 11
 http://201.237.193.180:9981/stream/channelid/220443661?profile=pass
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-1-hr.png?raw=true",HRT 1 
-http://93.115.108.250:4022/udp/239.1.2.93:1234
+http://79.127.207.193/HRT1/playlist.m3u8
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-2-hr.png?raw=true",HRT 2 
-http://89.201.195.79:9981/stream/channelid/795316169?profile=pass
+http://79.127.207.193/HRT2/playlist.m3u8
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-3-hr.png?raw=true",HRT 3 
-http://89.201.195.79:9981/stream/channelid/875896935?profile=pass
+http://79.127.207.193/HRT3/playlist.m3u8
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/hrt-4-hr.png?raw=true",HRT 4 
-http://89.201.195.79:9981/stream/channelid/1628606773?profile=pass
+http://79.127.207.193/HRT4/playlist.m3u8
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl-hr.png?raw=true",RTL Televizija 
 http://89.201.195.79:9981/stream/channelid/1323943180?profile=pass
 #EXTINF:-1 group-title="Croatia" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/croatia/rtl2-hr.png?raw=true",RTL 2 
@@ -1342,7 +1342,7 @@ http://185.104.253.35:9981/stream/channelid/1635083552?profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Franceinfo.svg" group-title="International",France Info
 http://176.65.146.138:8047/play/a07g/index.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/HRT_International_logo.png",HRT International
-http://5.57.74.130:8000/play/a03f/index.m3u8
+http://79.127.207.193/HRTint/playlist.m3u8
 #EXTINF:-1 group-title="International" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Mark%C3%ADza_International_%282022%29.svg/revision/latest/scale-to-width-down/250?cb=20220811142013",Markíza International
 http://tvh.cyn.cz/stream/channelid/1250511667?profile=pass
 #EXTINF:-1 group-title="International" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb431ItUI9vrWnI7Lr8OFxmkyIwzW_luy-Xg&s",Nova International
